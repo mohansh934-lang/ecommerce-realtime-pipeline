@@ -158,9 +158,5 @@ ecommerce-realtime-pipeline/
 
 ## 👤 Author
 
-**Your Name**  
+**Mohan**  
 Data Engineering Portfolio Project
-
-## 📄 License
-
-MIT License
